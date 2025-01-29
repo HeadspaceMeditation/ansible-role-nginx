@@ -1,0 +1,7 @@
+---
+nginx_python_selinux_pkgs:
+  - python3-libselinux
+  - python3-libsemanage
+
+nginx_modules_location: /usr/lib64/nginx/modules
+
